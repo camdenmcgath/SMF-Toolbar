@@ -13,4 +13,4 @@ This file contains the toolbar extension on the organized sector sheet. It curre
 sheet. If any stocks have not yet been added to the sector sheet, their tickers are appended to the sector sheet  to be sorted. 
 
 ## Contributing 
-See issues for features that need to be added.
+See the projects tab for items to be worked on and for the progress of development.
