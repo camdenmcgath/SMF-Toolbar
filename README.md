@@ -11,4 +11,4 @@ These tools are designed to work with two spreadsheets, one with general list of
 ## Sector Extension
 This file contains the toolbar extension on the organized sector sheet. It currently scans the general holdings sheet for stocks not already organizee in the sector
 sheet. If any stocks have not yet been added to the sector sheet, their tickers are appended to the sector sheet  to be sorted. Potential features to add:
-[ ] Migrate share count with ticker 
+- [ ] Migrate share count with ticker 
